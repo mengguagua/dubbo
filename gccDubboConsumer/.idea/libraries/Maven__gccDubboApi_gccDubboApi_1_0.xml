@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: gccDubboApi:gccDubboApi:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/gccDubboApi/gccDubboApi/1.0/gccDubboApi-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/gccDubboApi/gccDubboApi/1.0/gccDubboApi-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/gccDubboApi/gccDubboApi/1.0/gccDubboApi-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
